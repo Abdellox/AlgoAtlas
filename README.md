@@ -8,9 +8,13 @@ consistent structure that takes you from *the problem* to *the code*, with inter
 visualizations where it counts.
 
 <p align="center">
+  <a href="https://abdellox.github.io/AlgoAtlas/">
+    <img alt="Live demo" src="https://img.shields.io/badge/Live-Demo-4FC08D.svg">
+  </a>
   <img alt="License MIT" src="https://img.shields.io/badge/License-MIT-green.svg">
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/Abdellox/AlgoAtlas">
   <img alt="CI" src="https://img.shields.io/github/actions/workflow/status/Abdellox/AlgoAtlas/ci.yml">
+  <img alt="Pages deploy" src="https://img.shields.io/github/actions/workflow/status/Abdellox/AlgoAtlas/pages.yml">
 </p>
 
 ---
